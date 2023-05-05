@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<students>  
+<student>  
+  <name>Saarthi</name>  
+  <result>Passed</result>  
+  <age>22</age>  
+  <marks>75.4</marks> 
+  <distiction>Yes</distiction>  
+</student>  
+<student>  
+  <name>Sid</name>  
+  <result>Passed</result>  
+  <age>23</age>  
+  <marks>74</marks>
+  <distiction>Yes</distiction>    
+</student>
+</students>  
